@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Square Calculator")
+    st.title("Perfectly Odd Calculator")
     st.write("Enter a number below and click on the button to calculate its square.")
 
     # Input field for the user to enter a number
